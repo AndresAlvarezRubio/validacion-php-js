@@ -18,9 +18,6 @@
         <input  id="password" type="password" name="password" required>
     </label>
     <input type="submit" value="Iniciar Sesión">
-    <p>
-        <i id="errorSubmit">Aquí va el error</i>
-    </p>
 </form>
 </body>
 </html>
